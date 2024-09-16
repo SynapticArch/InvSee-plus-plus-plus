@@ -131,6 +131,8 @@ Is there any server that implements the Bukkit api that I'm missing? Don't hesit
 | Minecraft version: | 1.8.x      | 1.12.x     | 1.16.x      | 1.17.x      | 1.18.x      | 1.19.x      | 1.20.[0-4]  | 1.20.[5-6]  | 1.20.1      |
 |--------------------|------------|------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | Java version:      | 8 or newer | 8 or newer | 11 or newer | 16 or newer | 17 or newer | 17 or newer | 17 or newer | 21 or newer | 21 or newer |
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
