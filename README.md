@@ -133,7 +133,7 @@ Is there any server that implements the Bukkit api that I'm missing? Don't hesit
 | Java version:      | 8 or newer | 8 or newer | 11 or newer | 16 or newer | 17 or newer | 17 or newer | 17 or newer | 21 or newer | 21 or newer |
 > [!CAUTION]  
 > This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
-# Statement
+# 免责声明
 
 > [!CAUTION]  
 > 本分支仅用于个人开发提供学习研究，请勿直接使用任何附件。如出现任何有关源附件问题，本作者概不负责。
